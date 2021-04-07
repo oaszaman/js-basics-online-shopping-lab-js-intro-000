@@ -15,7 +15,7 @@ function addToCart(item) {
  let max = 100;
  let random = Math.floor(Math.random() * (max - min)) + min;
 
- 
+
 }
 
 function viewCart() {
